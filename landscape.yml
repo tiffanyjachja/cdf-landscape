@@ -85,6 +85,8 @@ landscape:
         items:
           - item:
             name: Drone
+            repo_url: 'https://github.com/drone/drone'
+            twitter: 'https://twitter.com/droneio'
             homepage_url: 'https://drone.io/'
             logo: drone.svg
             crunchbase: 'https://www.crunchbase.com/organization/drone-io'
